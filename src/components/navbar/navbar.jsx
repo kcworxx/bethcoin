@@ -1,5 +1,5 @@
 import React from 'react';
-import './navbar.css';
+import './navbar.css'
 import { IoMenu } from "react-icons/io5";
 
 const navbar = () => {
@@ -12,9 +12,7 @@ const navbar = () => {
       <div>
         <a href="#">BUY</a>
       </div>
-      <div>
-      <IoMenu />
-      </div>
+      <div> <IoMenu /></div>
 
     </div>
     </div>
